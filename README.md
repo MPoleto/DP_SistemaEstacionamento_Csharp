@@ -9,6 +9,7 @@ Você foi contratado para construir um sistema para um estacionamento, que será
 
 ## Proposta
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas e conforme o diagrama abaixo:
+
 ![Diagrama de classe estacionamento](diagrama_classe_estacionamento.png)
 
 A classe contém três variáveis, sendo:
